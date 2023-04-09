@@ -1,4 +1,19 @@
-### Hi there 👋
+### REPOSITORIO DE "DINAMITER"
+>Actualmente intentando aprender Java, MongoDB, Hibernate...
+
+![](C:\Users\anton\Downloads\fotoinicio.jpg)
+
+##Aprendiendo:
+* Java
+*Git/ Github
+*MongoDb
+*Hibernate
+*GUI
+*HTML
+*Netbeans
+
+
+
 
 <!--
 **Dinamiter/Dinamiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
