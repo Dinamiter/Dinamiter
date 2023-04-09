@@ -1,15 +1,23 @@
 ### REPOSITORIO DE "DINAMITER"
+
 >Actualmente intentando aprender Java, MongoDB, Hibernate...
 
-![](C:\Users\anton\Downloads\fotoinicio.jpg)
+![prueba de imagen](C:\Users\anton\Downloads\fotoinicio.jpg)
 
-##Aprendiendo:
+## Aprendiendo:
+>
 * Java
+>
 *Git/ Github
+>
 *MongoDb
+
 *Hibernate
+
 *GUI
+
 *HTML
+
 *Netbeans
 
 
