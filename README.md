@@ -5,20 +5,23 @@
 ![prueba de imagen](C:\Users\anton\Downloads\fotoinicio.jpg)
 
 ## Aprendiendo:
->
 * Java
->
 *Git/ Github
->
 *MongoDb
-
 *Hibernate
-
 *GUI
-
 *HTML
-
 *Netbeans
+
+####Crear nuevo repositorio:
+
+echo "# programacion" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Dinamiter/programacion.git
+git push -u origin main
 
 
 
