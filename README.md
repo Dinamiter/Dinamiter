@@ -2,8 +2,6 @@
 
 >Actualmente intentando aprender Java, MongoDB, Hibernate...
 
-![prueba de imagen](C:\Users\anton\Downloads\fotoinicio.jpg)
-
 ## Aprendiendo:
 * Java
 *Git/ Github
