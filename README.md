@@ -1,27 +1,16 @@
-### REPOSITORIO DE "DINAMITER"
+ REPOSITORIO DE "DINAMITER"
 
 >Actualmente intentando aprender Java, MongoDB, Hibernate...
 
-## Aprendiendo:
-* Java
-*Git/ Github
-*MongoDb
-*Hibernate
-*GUI
-*HTML
-*Netbeans
-
-####Crear nuevo repositorio:
-
->echo "# programacion" >> README.md
->git init
->git add README.md
->git commit -m "first commit"
->git branch -M main
->git remote add origin https://github.com/Dinamiter/programacion.git
->git push -u origin main
-
-
+Aprendiendo:
+ Java
+ Git/ Github
+ MongoDb
+ Hibernate
+ GUI
+ HTML
+ Netbeans
+ SQL
 
 
 <!--
